@@ -3,8 +3,9 @@
 **AI Engineering, Go-Global Indie SaaS Research & Open Empirical Benchmarks**
 
 - **Canonical Entity Home**: [https://jasonzhu.ai](https://jasonzhu.ai) ([English](https://jasonzhu.ai/en) · [中文](https://jasonzhu.ai/zh))
-- **ORCID iD**: [`0009-0000-2894-6285`](https://orcid.org/0009-0000-2894-6285)
-- **Hugging Face Datasets**: [`huggingface.co/jasonzhuyansen`](https://huggingface.co/jasonzhuyansen)
+- **ORCID iD**: [`0009-0000-2894-6285`](https://orcid.org/0009-0000-2894-6285) · **Google Scholar**: [`AlP5JacAAAAJ`](https://scholar.google.com/citations?user=AlP5JacAAAAJ)
+- **LinkedIn**: [`jason-zhu-a52aa73bb`](https://www.linkedin.com/in/jason-zhu-a52aa73bb/) · [`GoSailGlobal`](https://www.linkedin.com/company/gosailglobal/) · **Product Hunt**: [`@yansen_zhu`](https://www.producthunt.com/@yansen_zhu)
+- **Hugging Face Datasets**: [`huggingface.co/jasonzhuyansen`](https://huggingface.co/jasonzhuyansen) · **Kaggle Datasets**: [`kaggle.com/yansenzhu`](https://www.kaggle.com/yansenzhu)
 - **AI Agent Skills Hub (105,626 Audited Skills)**: [https://www.agentskillshub.top](https://www.agentskillshub.top)
 - **Go-Global AI & GEO Readiness Diagnostic (26 Checks)**: [https://jasonzhu.ai/en/go-global/ai-readiness](https://jasonzhu.ai/en/go-global/ai-readiness)
 - **Backlink Spam & Link-Selling Network Evidence Database**: [https://jasonzhu.ai/en/backlink-spam-list](https://jasonzhu.ai/en/backlink-spam-list)
