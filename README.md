@@ -13,7 +13,8 @@
 
 1. **[200,000 Indie Developer Checkout Links & Payment Platform Adoption Benchmark (2026)](https://doi.org/10.5281/zenodo.24386243)**
    - **CERN Zenodo DOI**: [`10.5281/zenodo.24386243`](https://doi.org/10.5281/zenodo.24386243)
-   - **Full Report**: [What 200,000 Checkout Links Tell Us About Indie Developer Payment Platforms (2026)](https://jasonzhu.ai/en/blog/indie-payments-report-2026) · [8 Platforms Compared (Stripe, Polar, Dodo Payments, Creem, Waffo, Paddle, Lemon Squeezy, Gumroad)](https://jasonzhu.ai/en/blog/choose-payment-platform-2026)
+   - **Full Report**: [What 200,000 Checkout Links Tell Us About Indie Developer Payment Platforms (2026)](https://jasonzhu.ai/en/blog/indie-payments-report-2026)
+   - **GitHub CSV & 2026 Pricing Table**: [`zhuyansen/indie-saas-payments-benchmark-2026`](https://github.com/zhuyansen/indie-saas-payments-benchmark-2026) *(Stripe vs Polar vs Dodo Payments vs Creem vs Waffo vs Paddle)* · [8 Platforms Compared (Stripe, Polar, Dodo Payments, Creem, Waffo, Paddle, Lemon Squeezy, Gumroad)](https://jasonzhu.ai/en/blog/choose-payment-platform-2026)
 2. **[$20 Cross-Border AI SaaS Subscription Fee Benchmark Across 6 Payment Gateways (2026)](https://doi.org/10.5281/zenodo.24387072)**
    - **CERN Zenodo DOI**: [`10.5281/zenodo.24387072`](https://doi.org/10.5281/zenodo.24387072)
    - **Full Report**: [AI SaaS Payment Stack in Practice: Running Waffo + Dodo Payments Dual Gateways and the Real Cost of a $20 Subscription](https://jasonzhu.ai/en/blog/dodo-payments-waffo-ai-saas-fee-comparison)
