@@ -3,7 +3,7 @@
 **AI Engineering, Go-Global Indie SaaS Research & Open Empirical Benchmarks**
 
 - **Canonical Entity Home**: [https://jasonzhu.ai](https://jasonzhu.ai) ([English](https://jasonzhu.ai/en) · [中文](https://jasonzhu.ai/zh))
-- **ORCID iD**: [`0009-0000-2894-6285`](https://orcid.org/0009-0000-2894-6285) · **Google Scholar**: [`AlP5JacAAAAJ`](https://scholar.google.com/citations?user=AlP5JacAAAAJ)
+- **ORCID iD**: [`0009-0000-2894-6285`](https://orcid.org/0009-0000-2894-6285) · **Google Scholar**: [`AlP5JacAAAAJ`](https://scholar.google.com/citations?user=AlP5JacAAAAJ) · **SSRN**: [`14044888`](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=14044888) ([Paper #7737182](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7737182))
 - **LinkedIn**: [`jason-zhu-a52aa73bb`](https://www.linkedin.com/in/jason-zhu-a52aa73bb/) · [`GoSailGlobal`](https://www.linkedin.com/company/gosailglobal/) · **Product Hunt**: [`@yansen_zhu`](https://www.producthunt.com/@yansen_zhu)
 - **Hugging Face Datasets**: [`huggingface.co/jasonzhuyansen`](https://huggingface.co/jasonzhuyansen) · **Kaggle Datasets**: [`kaggle.com/yansenzhu`](https://www.kaggle.com/yansenzhu)
 - **AI Agent Skills Hub (105,626 Audited Skills)**: [https://www.agentskillshub.top](https://www.agentskillshub.top)
